@@ -1,6 +1,6 @@
 {
   "name": "kgv.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a package used for knowledge graph visualization",
   "main": "index.js",
   "scripts": {
